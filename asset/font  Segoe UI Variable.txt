@@ -1,0 +1,23 @@
+font : Segoe UI Variable
+color pallet : 
+teks django project = 082b1e
+teks navbar dan junior coder = 004962
+teks im muhamad dan paragraf = 22342d
+
+
+
+
+paragrap about
+
+Saya telah mengembangkan sebuah proyek web yang memanfaatkan kekuatan framework Django dan estetika elegan dari CSS Bootstrap 5. Proyek ini bukan hanya tentang menciptakan sebuah situs web, tetapi juga tentang memperdalam pemahaman saya dalam pengembangan web modern. Dengan fondasi yang kuat dari Django, saya telah membangun struktur yang terorganisir dengan baik, sementara Bootstrap 5 memberikan tampilan yang menarik dan responsif. Ini bukan sekadar proyek, tetapi juga sebuah perjalanan untuk mengasah keterampilan saya dan meningkatkan pemahaman saya tentang pengoptimalan kinerja dan desain antarmuka yang menarik
+
+innggris
+
+I have developed a web project harnessing the power of the Django framework and the elegant aesthetics of CSS Bootstrap 5. This project is not just about creating a website, but also about deepening my understanding of modern web development. With a solid foundation from Django, I have built a well-organized structure, while Bootstrap 5 provides an attractive and responsive design. It's not just a project, but also a journey to sharpen my skills and enhance my understanding of performance optimization and appealing user interface design
+
+
+Saya adalah seseorang yang memiliki tekad kuat dan kualitas gigih dalam perjalanan pembelajaran saya di dunia web. Saya selalu siap untuk menghadapi tantangan baru dan berkomitmen untuk terus belajar tentang segala aspek yang terkait dengan pengembangan web. Sifat gigih saya memotivasi saya untuk mengatasi hambatan-hambatan yang mungkin muncul selama proses pembelajaran, dan saya percaya bahwa setiap kesulitan adalah peluang untuk tumbuh. Saya sangat antusias dalam menjelajahi dunia web yang terus berkembang dan berubah, dan saya yakin bahwa kemauan saya untuk terus belajar akan menjadi kunci kesuksesan dalam mencapai tujuan dan aspirasi saya di bidang ini.
+
+innggris
+
+I am someone with strong determination and the quality of perseverance in my journey of learning about the web. I am always ready to face new challenges and committed to continuously learning about all aspects related to web development. My perseverance motivates me to overcome any obstacles that may arise during the learning process, and I believe that every difficulty is an opportunity to grow. I am highly enthusiastic about exploring the ever-evolving and changing world of the web, and I am confident that my willingness to keep learning will be the key to success in achieving my goals and aspirations in this field.
